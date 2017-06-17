@@ -5,7 +5,7 @@
 <table border=0>
   <tr>
     <td>
-      ![Nextcloud_logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/320px-Nextcloud_Logo.svg.png)  
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/320px-Nextcloud_Logo.svg.png">
     </td>
     <td>
       <img src="https://www.raspberrypi.org/app/uploads/2012/03/raspberry-pi-logo.png" width="250">
